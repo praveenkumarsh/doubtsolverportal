@@ -1,0 +1,35 @@
+
+/*[ PADDING ]
+///////////////////////////////////////////////////////////
+*/
+
+.p-t-10 {padding-top: 10px;}
+.p-t-20 {padding-top: 20px;}
+.p-t-25 {padding-top: 25px;}
+.p-t-90 {padding-top: 90px;}
+
+.p-b-30 {padding-bottom: 30px;}
+.p-b-45 {padding-bottom: 45px;}
+.p-b-230 {padding-bottom: 230px;}
+
+/*[ MARGIN ]
+///////////////////////////////////////////////////////////
+*/
+
+.m-b-10 {margin-bottom: 10px;}
+
+/*[ TEXT ]
+///////////////////////////////////////////////////////////
+*/
+.text-center {text-align: center;}
+
+
+/*[ Display ]
+///////////////////////////////////////////////////////////
+*/
+
+.w-full {width: 100%;}
+.h-full {height: 100%;}
+
+
+
