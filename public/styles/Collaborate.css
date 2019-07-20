@@ -14,6 +14,11 @@ body {
 	background-color: #66A5Ad;
 }
 
+.right{
+	max-height: 50px;
+  overflow: auto;
+}
+
 div[user] {
 	width: 175px;
 	height: 35px;

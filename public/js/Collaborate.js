@@ -255,7 +255,7 @@ $(document).ready(function () {
 			var message = '<div class="message">' + message + '</div>';
 			$li = $('<li/>').html(senderData + message).addClass('sent-message');
 			$('div.big ul[purpose=chat]').append($li);
-
+			// window.scrollTo(0, document.body.scrollHeight);
 			socket.emit('message', {
 				to: otherUser,
 				from: currentUser,
