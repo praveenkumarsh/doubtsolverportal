@@ -22,11 +22,10 @@ Other libraries: Socket.io for freal time chat support.
 
 ## ScreenShot
 
-<img src="ScreenShot/screenashot3.jpg" width="500" />
-<img src="ScreenShot/screenshot 2.jpg" width="500" />
-<img src="ScreenShot/screenshot1.jpg" width="500" />
-<img src="ScreenShot/screenshot 1.1.jpg" width="500" />
-<img src="ScreenShot/screenshot5.jpg" width="500" />
+<img src="Screenshot/screenashot3.jpg" width="500" />
+<img src="Screenshot/screenshot 2.jpg" width="500" />
+<img src="Screenshot/screenshot1.jpg" width="500" />
+<img src="Screenshot/screenshot 1.1.jpg" width="500" />
 
 ## Getting Started
 
