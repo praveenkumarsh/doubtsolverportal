@@ -32,7 +32,7 @@ Other libraries: Socket.io for freal time chat support.
 Live version of this web portal can be found at
 https://tahelpers.herokuapp.com/
 OR
-https://tahelpers.tk
+http://tahelpers.tk/
 
 ## Authors
 
